@@ -34,7 +34,6 @@ SKIP_HEADER = 1;
 COPY INTO customer
 from @CUSTOMER_STAGE
 FILE_FORMAT = (FORMAT_NAME = CSV_FORMAT);
-
 SHOW FILE FORMATS;
 
 select * from customer;
