@@ -354,6 +354,7 @@ SELECT PARSE_JSON ('
       "total_students": 700, 
       "total_courses": 4 
      } 
+ 
    }, 
   "name": "Central University", 
   "total_students": 1700, 
