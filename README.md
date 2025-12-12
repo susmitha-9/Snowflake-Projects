@@ -1,5 +1,4 @@
-# Snowflake
-Snowflake Scripts, SCD1 and SCD2 Implementation:-
+# Snowflake Scripts, SCD1 and SCD2 Implementation:-
 
 **ETL SCD1 using Snowflake Tasks, Streams, and Stored Procedures**
 
